@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigate_notice"
+        android:title="Duyuru"
+        android:icon="@drawable/ic_notice_button"/>
+    <item android:id="@+id/navigate_social"
+        android:title="Sosyal"
+        android:icon="@drawable/ic_social_button"/>
+    <item android:id="@+id/navigate_search"
+        android:title="Arama"
+        android:icon="@drawable/ic_search_button"/>
+    <item android:id="@+id/navigate_profile"
+        android:title="Profil"
+        android:icon="@drawable/ic_profile_button"/>
+
+
+
+</menu>
